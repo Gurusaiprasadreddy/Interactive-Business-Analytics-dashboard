@@ -1,0 +1,807 @@
+month,region,channel,spend
+2023-01-01,Asia Pacific,Organic,10.2
+2023-01-01,Asia Pacific,Paid Search,110.03
+2023-01-01,Europe,Affiliate,24.72
+2023-01-01,Europe,Email,10.79
+2023-01-01,Europe,Paid Search,32.61
+2023-01-01,Europe,Social Ads,64.3
+2023-01-01,Middle East & Africa,Affiliate,28.27
+2023-01-01,Middle East & Africa,Email,35.68
+2023-01-01,Middle East & Africa,Paid Search,66.48
+2023-01-01,Middle East & Africa,Social Ads,33.83
+2023-01-01,North America,Affiliate,29.22
+2023-01-01,North America,Email,12.02
+2023-01-01,North America,Organic,15.32
+2023-01-01,North America,Paid Search,121.07
+2023-01-01,North America,Social Ads,111.57
+2023-02-01,Asia Pacific,Affiliate,26.51
+2023-02-01,Asia Pacific,Email,12.19
+2023-02-01,Asia Pacific,Organic,14.19
+2023-02-01,Asia Pacific,Paid Search,134.22
+2023-02-01,Asia Pacific,Social Ads,243.1
+2023-02-01,Europe,Affiliate,54.85
+2023-02-01,Europe,Email,66.0
+2023-02-01,Europe,Organic,11.38
+2023-02-01,Europe,Paid Search,77.45
+2023-02-01,Europe,Social Ads,64.6
+2023-02-01,Latin America,Paid Search,70.88
+2023-02-01,Latin America,Social Ads,68.57
+2023-02-01,Middle East & Africa,Organic,10.9
+2023-02-01,Middle East & Africa,Social Ads,151.6
+2023-02-01,North America,Affiliate,59.61
+2023-02-01,North America,Organic,16.59
+2023-02-01,North America,Paid Search,326.15
+2023-02-01,North America,Social Ads,154.96
+2023-03-01,Asia Pacific,Affiliate,60.77
+2023-03-01,Asia Pacific,Email,25.93
+2023-03-01,Asia Pacific,Organic,26.56
+2023-03-01,Asia Pacific,Paid Search,83.42
+2023-03-01,Asia Pacific,Social Ads,173.46
+2023-03-01,Europe,Affiliate,23.88
+2023-03-01,Europe,Organic,35.33
+2023-03-01,Europe,Paid Search,213.6
+2023-03-01,Europe,Social Ads,151.92
+2023-03-01,Latin America,Email,12.78
+2023-03-01,Latin America,Organic,6.21
+2023-03-01,Latin America,Paid Search,182.02
+2023-03-01,Latin America,Social Ads,35.36
+2023-03-01,Middle East & Africa,Email,11.37
+2023-03-01,Middle East & Africa,Organic,12.42
+2023-03-01,Middle East & Africa,Paid Search,86.92
+2023-03-01,Middle East & Africa,Social Ads,92.75
+2023-03-01,North America,Affiliate,105.42
+2023-03-01,North America,Email,13.45
+2023-03-01,North America,Organic,31.33
+2023-03-01,North America,Paid Search,319.59
+2023-03-01,North America,Social Ads,241.7
+2023-04-01,Asia Pacific,Affiliate,101.84
+2023-04-01,Asia Pacific,Paid Search,162.33
+2023-04-01,Asia Pacific,Social Ads,153.32
+2023-04-01,Europe,Affiliate,79.83
+2023-04-01,Europe,Email,12.75
+2023-04-01,Europe,Organic,10.69
+2023-04-01,Europe,Paid Search,190.76
+2023-04-01,Europe,Social Ads,101.43
+2023-04-01,Latin America,Email,13.85
+2023-04-01,Latin America,Organic,11.83
+2023-04-01,Latin America,Paid Search,66.74
+2023-04-01,Latin America,Social Ads,115.45
+2023-04-01,Middle East & Africa,Affiliate,54.31
+2023-04-01,Middle East & Africa,Organic,5.58
+2023-04-01,Middle East & Africa,Paid Search,33.6
+2023-04-01,Middle East & Africa,Social Ads,29.74
+2023-04-01,North America,Affiliate,63.32
+2023-04-01,North America,Email,68.58
+2023-04-01,North America,Organic,29.43
+2023-04-01,North America,Paid Search,477.53
+2023-04-01,North America,Social Ads,107.83
+2023-05-01,Asia Pacific,Affiliate,23.91
+2023-05-01,Asia Pacific,Email,21.83
+2023-05-01,Asia Pacific,Organic,25.8
+2023-05-01,Asia Pacific,Paid Search,154.31
+2023-05-01,Asia Pacific,Social Ads,332.26
+2023-05-01,Europe,Affiliate,63.7
+2023-05-01,Europe,Email,24.58
+2023-05-01,Europe,Organic,5.33
+2023-05-01,Europe,Paid Search,337.12
+2023-05-01,Europe,Social Ads,108.99
+2023-05-01,Latin America,Affiliate,58.08
+2023-05-01,Latin America,Social Ads,59.5
+2023-05-01,Middle East & Africa,Affiliate,31.29
+2023-05-01,Middle East & Africa,Email,13.97
+2023-05-01,Middle East & Africa,Organic,10.56
+2023-05-01,Middle East & Africa,Paid Search,216.46
+2023-05-01,Middle East & Africa,Social Ads,153.95
+2023-05-01,North America,Affiliate,126.64
+2023-05-01,North America,Email,22.6
+2023-05-01,North America,Organic,13.79
+2023-05-01,North America,Paid Search,419.55
+2023-05-01,North America,Social Ads,120.86
+2023-06-01,Asia Pacific,Affiliate,76.49
+2023-06-01,Asia Pacific,Organic,6.7
+2023-06-01,Asia Pacific,Paid Search,247.07
+2023-06-01,Asia Pacific,Social Ads,176.05
+2023-06-01,Europe,Affiliate,88.76
+2023-06-01,Europe,Email,41.05
+2023-06-01,Europe,Paid Search,209.39
+2023-06-01,Europe,Social Ads,126.26
+2023-06-01,Latin America,Paid Search,38.48
+2023-06-01,Latin America,Social Ads,68.29
+2023-06-01,Middle East & Africa,Affiliate,30.1
+2023-06-01,Middle East & Africa,Organic,13.5
+2023-06-01,Middle East & Africa,Paid Search,37.25
+2023-06-01,Middle East & Africa,Social Ads,70.46
+2023-06-01,North America,Affiliate,131.95
+2023-06-01,North America,Organic,23.52
+2023-06-01,North America,Paid Search,239.97
+2023-06-01,North America,Social Ads,178.97
+2023-07-01,Asia Pacific,Affiliate,47.2
+2023-07-01,Asia Pacific,Email,11.63
+2023-07-01,Asia Pacific,Organic,14.37
+2023-07-01,Asia Pacific,Paid Search,256.7
+2023-07-01,Asia Pacific,Social Ads,284.72
+2023-07-01,Europe,Affiliate,51.01
+2023-07-01,Europe,Organic,41.13
+2023-07-01,Europe,Paid Search,194.42
+2023-07-01,Europe,Social Ads,151.69
+2023-07-01,Latin America,Paid Search,40.33
+2023-07-01,Latin America,Social Ads,61.55
+2023-07-01,Middle East & Africa,Affiliate,51.61
+2023-07-01,Middle East & Africa,Email,12.24
+2023-07-01,Middle East & Africa,Paid Search,115.1
+2023-07-01,Middle East & Africa,Social Ads,117.16
+2023-07-01,North America,Affiliate,58.67
+2023-07-01,North America,Email,11.15
+2023-07-01,North America,Paid Search,225.98
+2023-07-01,North America,Social Ads,214.02
+2023-08-01,Asia Pacific,Email,11.4
+2023-08-01,Asia Pacific,Organic,18.95
+2023-08-01,Asia Pacific,Paid Search,224.07
+2023-08-01,Asia Pacific,Social Ads,541.96
+2023-08-01,Europe,Affiliate,96.69
+2023-08-01,Europe,Email,27.71
+2023-08-01,Europe,Organic,36.54
+2023-08-01,Europe,Paid Search,295.25
+2023-08-01,Europe,Social Ads,294.69
+2023-08-01,Latin America,Affiliate,57.54
+2023-08-01,Latin America,Email,28.16
+2023-08-01,Latin America,Paid Search,133.29
+2023-08-01,Latin America,Social Ads,71.35
+2023-08-01,Middle East & Africa,Organic,5.5
+2023-08-01,Middle East & Africa,Paid Search,108.73
+2023-08-01,North America,Affiliate,175.36
+2023-08-01,North America,Email,83.07
+2023-08-01,North America,Organic,31.02
+2023-08-01,North America,Paid Search,272.37
+2023-08-01,North America,Social Ads,257.84
+2023-09-01,Asia Pacific,Affiliate,24.92
+2023-09-01,Asia Pacific,Email,21.54
+2023-09-01,Asia Pacific,Organic,17.04
+2023-09-01,Asia Pacific,Paid Search,218.74
+2023-09-01,Asia Pacific,Social Ads,161.73
+2023-09-01,Europe,Affiliate,127.4
+2023-09-01,Europe,Email,11.89
+2023-09-01,Europe,Organic,14.04
+2023-09-01,Europe,Paid Search,206.17
+2023-09-01,Europe,Social Ads,128.35
+2023-09-01,Latin America,Affiliate,23.39
+2023-09-01,Latin America,Email,12.52
+2023-09-01,Latin America,Organic,6.84
+2023-09-01,Latin America,Paid Search,163.37
+2023-09-01,Latin America,Social Ads,36.9
+2023-09-01,Middle East & Africa,Organic,13.05
+2023-09-01,Middle East & Africa,Social Ads,58.06
+2023-09-01,North America,Affiliate,170.54
+2023-09-01,North America,Email,54.54
+2023-09-01,North America,Organic,13.07
+2023-09-01,North America,Paid Search,229.46
+2023-09-01,North America,Social Ads,356.84
+2023-10-01,Asia Pacific,Affiliate,83.02
+2023-10-01,Asia Pacific,Email,21.65
+2023-10-01,Asia Pacific,Organic,21.69
+2023-10-01,Asia Pacific,Paid Search,305.94
+2023-10-01,Asia Pacific,Social Ads,148.45
+2023-10-01,Europe,Affiliate,165.53
+2023-10-01,Europe,Email,43.14
+2023-10-01,Europe,Organic,68.23
+2023-10-01,Europe,Paid Search,478.28
+2023-10-01,Europe,Social Ads,152.23
+2023-10-01,Latin America,Email,11.08
+2023-10-01,Latin America,Organic,7.16
+2023-10-01,Latin America,Paid Search,122.96
+2023-10-01,Latin America,Social Ads,39.46
+2023-10-01,Middle East & Africa,Affiliate,114.81
+2023-10-01,Middle East & Africa,Email,28.25
+2023-10-01,Middle East & Africa,Paid Search,111.37
+2023-10-01,Middle East & Africa,Social Ads,84.8
+2023-10-01,North America,Affiliate,109.61
+2023-10-01,North America,Email,39.7
+2023-10-01,North America,Organic,14.36
+2023-10-01,North America,Paid Search,317.34
+2023-10-01,North America,Social Ads,362.89
+2023-11-01,Asia Pacific,Affiliate,49.26
+2023-11-01,Asia Pacific,Email,26.76
+2023-11-01,Asia Pacific,Organic,44.71
+2023-11-01,Asia Pacific,Paid Search,379.51
+2023-11-01,Asia Pacific,Social Ads,56.96
+2023-11-01,Europe,Affiliate,146.86
+2023-11-01,Europe,Email,46.6
+2023-11-01,Europe,Organic,28.93
+2023-11-01,Europe,Paid Search,344.47
+2023-11-01,Europe,Social Ads,308.1
+2023-11-01,Latin America,Affiliate,31.72
+2023-11-01,Latin America,Email,13.0
+2023-11-01,Latin America,Organic,5.19
+2023-11-01,Latin America,Paid Search,155.82
+2023-11-01,Latin America,Social Ads,33.76
+2023-11-01,Middle East & Africa,Affiliate,93.8
+2023-11-01,Middle East & Africa,Organic,11.08
+2023-11-01,Middle East & Africa,Social Ads,85.85
+2023-11-01,North America,Affiliate,116.61
+2023-11-01,North America,Email,65.08
+2023-11-01,North America,Organic,32.55
+2023-11-01,North America,Paid Search,555.58
+2023-11-01,North America,Social Ads,413.08
+2023-12-01,Asia Pacific,Affiliate,23.01
+2023-12-01,Asia Pacific,Email,54.02
+2023-12-01,Asia Pacific,Organic,13.9
+2023-12-01,Asia Pacific,Paid Search,183.01
+2023-12-01,Asia Pacific,Social Ads,336.3
+2023-12-01,Europe,Affiliate,72.61
+2023-12-01,Europe,Email,30.99
+2023-12-01,Europe,Organic,33.29
+2023-12-01,Europe,Paid Search,362.32
+2023-12-01,Europe,Social Ads,301.52
+2023-12-01,Latin America,Social Ads,88.58
+2023-12-01,Middle East & Africa,Email,27.7
+2023-12-01,Middle East & Africa,Paid Search,117.13
+2023-12-01,Middle East & Africa,Social Ads,115.52
+2023-12-01,North America,Affiliate,166.54
+2023-12-01,North America,Email,69.95
+2023-12-01,North America,Organic,38.18
+2023-12-01,North America,Paid Search,413.97
+2023-12-01,North America,Social Ads,262.44
+2024-01-01,Asia Pacific,Affiliate,47.18
+2024-01-01,Asia Pacific,Email,22.87
+2024-01-01,Asia Pacific,Organic,15.32
+2024-01-01,Asia Pacific,Paid Search,431.8
+2024-01-01,Asia Pacific,Social Ads,527.85
+2024-01-01,Europe,Affiliate,51.0
+2024-01-01,Europe,Email,11.39
+2024-01-01,Europe,Organic,32.74
+2024-01-01,Europe,Paid Search,308.37
+2024-01-01,Europe,Social Ads,128.28
+2024-01-01,Latin America,Affiliate,23.08
+2024-01-01,Latin America,Organic,12.57
+2024-01-01,Latin America,Paid Search,142.62
+2024-01-01,Latin America,Social Ads,76.86
+2024-01-01,Middle East & Africa,Email,24.45
+2024-01-01,Middle East & Africa,Organic,5.35
+2024-01-01,Middle East & Africa,Social Ads,166.56
+2024-01-01,North America,Affiliate,191.92
+2024-01-01,North America,Email,68.12
+2024-01-01,North America,Organic,47.37
+2024-01-01,North America,Paid Search,413.26
+2024-01-01,North America,Social Ads,196.74
+2024-02-01,Asia Pacific,Affiliate,98.33
+2024-02-01,Asia Pacific,Email,52.73
+2024-02-01,Asia Pacific,Organic,32.63
+2024-02-01,Asia Pacific,Paid Search,394.14
+2024-02-01,Asia Pacific,Social Ads,377.75
+2024-02-01,Europe,Affiliate,24.54
+2024-02-01,Europe,Email,44.81
+2024-02-01,Europe,Organic,28.11
+2024-02-01,Europe,Paid Search,269.18
+2024-02-01,Europe,Social Ads,334.13
+2024-02-01,Latin America,Affiliate,29.03
+2024-02-01,Latin America,Email,13.41
+2024-02-01,Latin America,Organic,5.77
+2024-02-01,Latin America,Paid Search,81.35
+2024-02-01,Latin America,Social Ads,74.47
+2024-02-01,Middle East & Africa,Affiliate,24.48
+2024-02-01,Middle East & Africa,Email,12.58
+2024-02-01,Middle East & Africa,Organic,7.13
+2024-02-01,Middle East & Africa,Paid Search,201.06
+2024-02-01,Middle East & Africa,Social Ads,143.97
+2024-02-01,North America,Affiliate,163.06
+2024-02-01,North America,Email,24.97
+2024-02-01,North America,Organic,22.21
+2024-02-01,North America,Paid Search,534.06
+2024-02-01,North America,Social Ads,225.04
+2024-03-01,Asia Pacific,Affiliate,148.0
+2024-03-01,Asia Pacific,Email,24.71
+2024-03-01,Asia Pacific,Organic,18.34
+2024-03-01,Asia Pacific,Paid Search,227.86
+2024-03-01,Asia Pacific,Social Ads,380.28
+2024-03-01,Europe,Affiliate,215.96
+2024-03-01,Europe,Email,50.88
+2024-03-01,Europe,Organic,22.76
+2024-03-01,Europe,Paid Search,296.74
+2024-03-01,Europe,Social Ads,115.94
+2024-03-01,Latin America,Affiliate,62.15
+2024-03-01,Latin America,Email,10.84
+2024-03-01,Latin America,Paid Search,204.0
+2024-03-01,Middle East & Africa,Affiliate,27.91
+2024-03-01,Middle East & Africa,Email,12.39
+2024-03-01,Middle East & Africa,Organic,18.45
+2024-03-01,Middle East & Africa,Social Ads,114.71
+2024-03-01,North America,Affiliate,161.16
+2024-03-01,North America,Email,11.37
+2024-03-01,North America,Organic,30.03
+2024-03-01,North America,Paid Search,566.08
+2024-03-01,North America,Social Ads,283.9
+2024-04-01,Asia Pacific,Affiliate,119.08
+2024-04-01,Asia Pacific,Email,20.46
+2024-04-01,Asia Pacific,Organic,36.83
+2024-04-01,Asia Pacific,Paid Search,316.8
+2024-04-01,Asia Pacific,Social Ads,227.05
+2024-04-01,Europe,Affiliate,93.93
+2024-04-01,Europe,Email,42.82
+2024-04-01,Europe,Organic,35.11
+2024-04-01,Europe,Paid Search,315.13
+2024-04-01,Europe,Social Ads,187.08
+2024-04-01,Latin America,Affiliate,55.46
+2024-04-01,Latin America,Organic,6.0
+2024-04-01,Latin America,Paid Search,37.45
+2024-04-01,Latin America,Social Ads,96.17
+2024-04-01,Middle East & Africa,Affiliate,104.82
+2024-04-01,Middle East & Africa,Email,13.41
+2024-04-01,Middle East & Africa,Organic,5.24
+2024-04-01,Middle East & Africa,Paid Search,109.86
+2024-04-01,Middle East & Africa,Social Ads,115.19
+2024-04-01,North America,Affiliate,151.67
+2024-04-01,North America,Email,51.35
+2024-04-01,North America,Organic,16.09
+2024-04-01,North America,Paid Search,555.71
+2024-04-01,North America,Social Ads,462.0
+2024-05-01,Asia Pacific,Affiliate,135.51
+2024-05-01,Asia Pacific,Email,13.38
+2024-05-01,Asia Pacific,Organic,20.74
+2024-05-01,Asia Pacific,Paid Search,125.68
+2024-05-01,Asia Pacific,Social Ads,432.72
+2024-05-01,Europe,Affiliate,121.89
+2024-05-01,Europe,Email,36.9
+2024-05-01,Europe,Organic,64.61
+2024-05-01,Europe,Paid Search,242.84
+2024-05-01,Europe,Social Ads,146.67
+2024-05-01,Latin America,Affiliate,58.74
+2024-05-01,Latin America,Email,10.97
+2024-05-01,Latin America,Organic,12.24
+2024-05-01,Latin America,Paid Search,276.96
+2024-05-01,Latin America,Social Ads,113.31
+2024-05-01,Middle East & Africa,Affiliate,25.72
+2024-05-01,Middle East & Africa,Email,12.44
+2024-05-01,Middle East & Africa,Organic,13.31
+2024-05-01,Middle East & Africa,Paid Search,68.94
+2024-05-01,Middle East & Africa,Social Ads,37.88
+2024-05-01,North America,Affiliate,259.39
+2024-05-01,North America,Email,55.46
+2024-05-01,North America,Organic,52.49
+2024-05-01,North America,Paid Search,629.84
+2024-05-01,North America,Social Ads,430.3
+2024-06-01,Asia Pacific,Affiliate,173.69
+2024-06-01,Asia Pacific,Email,14.12
+2024-06-01,Asia Pacific,Organic,10.38
+2024-06-01,Asia Pacific,Paid Search,264.3
+2024-06-01,Asia Pacific,Social Ads,461.7
+2024-06-01,Europe,Affiliate,117.03
+2024-06-01,Europe,Email,33.86
+2024-06-01,Europe,Organic,28.72
+2024-06-01,Europe,Paid Search,252.83
+2024-06-01,Europe,Social Ads,216.22
+2024-06-01,Latin America,Affiliate,31.48
+2024-06-01,Latin America,Organic,6.91
+2024-06-01,Latin America,Paid Search,124.29
+2024-06-01,Latin America,Social Ads,79.06
+2024-06-01,Middle East & Africa,Organic,25.87
+2024-06-01,Middle East & Africa,Paid Search,224.38
+2024-06-01,Middle East & Africa,Social Ads,137.7
+2024-06-01,North America,Affiliate,110.38
+2024-06-01,North America,Email,11.05
+2024-06-01,North America,Organic,63.16
+2024-06-01,North America,Paid Search,228.58
+2024-06-01,North America,Social Ads,395.78
+2024-07-01,Asia Pacific,Affiliate,140.0
+2024-07-01,Asia Pacific,Email,10.44
+2024-07-01,Asia Pacific,Organic,26.08
+2024-07-01,Asia Pacific,Paid Search,395.45
+2024-07-01,Asia Pacific,Social Ads,502.28
+2024-07-01,Europe,Affiliate,238.36
+2024-07-01,Europe,Email,26.23
+2024-07-01,Europe,Organic,13.78
+2024-07-01,Europe,Paid Search,309.48
+2024-07-01,Europe,Social Ads,236.48
+2024-07-01,Latin America,Affiliate,26.88
+2024-07-01,Latin America,Email,28.65
+2024-07-01,Latin America,Organic,16.64
+2024-07-01,Latin America,Paid Search,100.02
+2024-07-01,Latin America,Social Ads,89.51
+2024-07-01,Middle East & Africa,Organic,6.72
+2024-07-01,Middle East & Africa,Paid Search,34.67
+2024-07-01,Middle East & Africa,Social Ads,32.29
+2024-07-01,North America,Affiliate,144.13
+2024-07-01,North America,Email,70.61
+2024-07-01,North America,Organic,60.31
+2024-07-01,North America,Paid Search,589.96
+2024-07-01,North America,Social Ads,487.23
+2024-08-01,Asia Pacific,Affiliate,109.43
+2024-08-01,Asia Pacific,Email,63.59
+2024-08-01,Asia Pacific,Organic,31.03
+2024-08-01,Asia Pacific,Paid Search,378.02
+2024-08-01,Asia Pacific,Social Ads,215.47
+2024-08-01,Europe,Affiliate,54.27
+2024-08-01,Europe,Email,51.5
+2024-08-01,Europe,Organic,17.29
+2024-08-01,Europe,Paid Search,292.59
+2024-08-01,Europe,Social Ads,305.15
+2024-08-01,Latin America,Affiliate,31.02
+2024-08-01,Latin America,Email,13.76
+2024-08-01,Latin America,Organic,6.43
+2024-08-01,Latin America,Paid Search,187.03
+2024-08-01,Latin America,Social Ads,131.91
+2024-08-01,Middle East & Africa,Affiliate,60.56
+2024-08-01,Middle East & Africa,Email,23.89
+2024-08-01,Middle East & Africa,Organic,19.42
+2024-08-01,Middle East & Africa,Paid Search,207.24
+2024-08-01,Middle East & Africa,Social Ads,188.46
+2024-08-01,North America,Affiliate,118.49
+2024-08-01,North America,Email,12.7
+2024-08-01,North America,Organic,48.12
+2024-08-01,North America,Paid Search,366.08
+2024-08-01,North America,Social Ads,269.38
+2024-09-01,Asia Pacific,Affiliate,129.73
+2024-09-01,Asia Pacific,Email,28.57
+2024-09-01,Asia Pacific,Organic,30.7
+2024-09-01,Asia Pacific,Paid Search,301.45
+2024-09-01,Asia Pacific,Social Ads,287.74
+2024-09-01,Europe,Affiliate,197.9
+2024-09-01,Europe,Email,55.76
+2024-09-01,Europe,Organic,57.41
+2024-09-01,Europe,Paid Search,326.88
+2024-09-01,Europe,Social Ads,248.79
+2024-09-01,Latin America,Affiliate,26.17
+2024-09-01,Latin America,Email,26.64
+2024-09-01,Latin America,Paid Search,88.18
+2024-09-01,Latin America,Social Ads,60.03
+2024-09-01,Middle East & Africa,Affiliate,23.6
+2024-09-01,Middle East & Africa,Email,24.74
+2024-09-01,Middle East & Africa,Organic,28.22
+2024-09-01,Middle East & Africa,Social Ads,75.57
+2024-09-01,North America,Affiliate,110.64
+2024-09-01,North America,Email,21.35
+2024-09-01,North America,Organic,62.16
+2024-09-01,North America,Paid Search,495.81
+2024-09-01,North America,Social Ads,170.38
+2024-10-01,Asia Pacific,Affiliate,180.96
+2024-10-01,Asia Pacific,Email,30.86
+2024-10-01,Asia Pacific,Organic,30.02
+2024-10-01,Asia Pacific,Paid Search,182.5
+2024-10-01,Asia Pacific,Social Ads,334.26
+2024-10-01,Europe,Affiliate,126.08
+2024-10-01,Europe,Email,70.56
+2024-10-01,Europe,Organic,55.31
+2024-10-01,Europe,Paid Search,479.46
+2024-10-01,Europe,Social Ads,245.91
+2024-10-01,Latin America,Affiliate,98.26
+2024-10-01,Latin America,Email,25.81
+2024-10-01,Latin America,Organic,7.0
+2024-10-01,Latin America,Paid Search,128.4
+2024-10-01,Latin America,Social Ads,34.86
+2024-10-01,Middle East & Africa,Affiliate,27.02
+2024-10-01,Middle East & Africa,Organic,21.21
+2024-10-01,Middle East & Africa,Paid Search,118.74
+2024-10-01,Middle East & Africa,Social Ads,111.82
+2024-10-01,North America,Affiliate,226.41
+2024-10-01,North America,Email,77.73
+2024-10-01,North America,Organic,38.17
+2024-10-01,North America,Paid Search,422.4
+2024-10-01,North America,Social Ads,487.78
+2024-11-01,Asia Pacific,Affiliate,55.32
+2024-11-01,Asia Pacific,Email,41.86
+2024-11-01,Asia Pacific,Organic,26.27
+2024-11-01,Asia Pacific,Paid Search,184.8
+2024-11-01,Asia Pacific,Social Ads,504.88
+2024-11-01,Europe,Affiliate,84.82
+2024-11-01,Europe,Email,63.51
+2024-11-01,Europe,Organic,33.79
+2024-11-01,Europe,Paid Search,410.31
+2024-11-01,Europe,Social Ads,627.8
+2024-11-01,Latin America,Affiliate,52.48
+2024-11-01,Latin America,Email,12.8
+2024-11-01,Latin America,Organic,18.4
+2024-11-01,Latin America,Paid Search,176.65
+2024-11-01,Latin America,Social Ads,212.69
+2024-11-01,Middle East & Africa,Organic,29.78
+2024-11-01,Middle East & Africa,Paid Search,151.18
+2024-11-01,Middle East & Africa,Social Ads,28.08
+2024-11-01,North America,Affiliate,196.16
+2024-11-01,North America,Email,84.38
+2024-11-01,North America,Organic,20.81
+2024-11-01,North America,Paid Search,726.36
+2024-11-01,North America,Social Ads,425.63
+2024-12-01,Asia Pacific,Affiliate,110.94
+2024-12-01,Asia Pacific,Email,46.0
+2024-12-01,Asia Pacific,Organic,39.14
+2024-12-01,Asia Pacific,Paid Search,565.91
+2024-12-01,Asia Pacific,Social Ads,529.0
+2024-12-01,Europe,Affiliate,191.79
+2024-12-01,Europe,Email,37.26
+2024-12-01,Europe,Organic,56.99
+2024-12-01,Europe,Paid Search,212.83
+2024-12-01,Europe,Social Ads,322.67
+2024-12-01,Latin America,Affiliate,28.15
+2024-12-01,Latin America,Email,22.78
+2024-12-01,Latin America,Organic,21.89
+2024-12-01,Latin America,Paid Search,178.98
+2024-12-01,Latin America,Social Ads,172.4
+2024-12-01,Middle East & Africa,Email,12.05
+2024-12-01,Middle East & Africa,Organic,25.57
+2024-12-01,Middle East & Africa,Paid Search,160.23
+2024-12-01,Middle East & Africa,Social Ads,35.08
+2024-12-01,North America,Affiliate,221.46
+2024-12-01,North America,Email,25.5
+2024-12-01,North America,Organic,88.48
+2024-12-01,North America,Paid Search,308.46
+2024-12-01,North America,Social Ads,786.76
+2025-01-01,Asia Pacific,Affiliate,104.7
+2025-01-01,Asia Pacific,Email,10.28
+2025-01-01,Asia Pacific,Organic,40.34
+2025-01-01,Asia Pacific,Paid Search,516.25
+2025-01-01,Asia Pacific,Social Ads,232.01
+2025-01-01,Europe,Affiliate,124.8
+2025-01-01,Europe,Email,30.68
+2025-01-01,Europe,Organic,44.62
+2025-01-01,Europe,Paid Search,204.31
+2025-01-01,Europe,Social Ads,219.55
+2025-01-01,Latin America,Email,13.34
+2025-01-01,Latin America,Organic,5.23
+2025-01-01,Latin America,Paid Search,44.16
+2025-01-01,Latin America,Social Ads,75.31
+2025-01-01,Middle East & Africa,Affiliate,52.19
+2025-01-01,Middle East & Africa,Email,21.02
+2025-01-01,Middle East & Africa,Paid Search,170.71
+2025-01-01,Middle East & Africa,Social Ads,112.65
+2025-01-01,North America,Affiliate,127.61
+2025-01-01,North America,Email,64.91
+2025-01-01,North America,Organic,67.57
+2025-01-01,North America,Paid Search,386.69
+2025-01-01,North America,Social Ads,180.63
+2025-02-01,Asia Pacific,Affiliate,91.04
+2025-02-01,Asia Pacific,Email,23.74
+2025-02-01,Asia Pacific,Organic,28.53
+2025-02-01,Asia Pacific,Paid Search,444.46
+2025-02-01,Asia Pacific,Social Ads,255.11
+2025-02-01,Europe,Affiliate,157.25
+2025-02-01,Europe,Email,32.31
+2025-02-01,Europe,Organic,13.92
+2025-02-01,Europe,Paid Search,419.91
+2025-02-01,Europe,Social Ads,345.88
+2025-02-01,Latin America,Affiliate,31.73
+2025-02-01,Latin America,Email,12.22
+2025-02-01,Latin America,Organic,5.79
+2025-02-01,Latin America,Paid Search,35.84
+2025-02-01,Latin America,Social Ads,139.98
+2025-02-01,Middle East & Africa,Affiliate,24.05
+2025-02-01,Middle East & Africa,Email,11.99
+2025-02-01,Middle East & Africa,Organic,5.11
+2025-02-01,Middle East & Africa,Social Ads,77.63
+2025-02-01,North America,Affiliate,259.64
+2025-02-01,North America,Email,53.83
+2025-02-01,North America,Organic,62.19
+2025-02-01,North America,Paid Search,546.62
+2025-02-01,North America,Social Ads,608.01
+2025-03-01,Asia Pacific,Affiliate,151.85
+2025-03-01,Asia Pacific,Email,27.21
+2025-03-01,Asia Pacific,Organic,38.58
+2025-03-01,Asia Pacific,Paid Search,345.31
+2025-03-01,Asia Pacific,Social Ads,112.29
+2025-03-01,Europe,Affiliate,160.99
+2025-03-01,Europe,Email,42.03
+2025-03-01,Europe,Organic,55.0
+2025-03-01,Europe,Paid Search,228.79
+2025-03-01,Europe,Social Ads,260.06
+2025-03-01,Latin America,Affiliate,28.97
+2025-03-01,Latin America,Organic,6.53
+2025-03-01,Latin America,Paid Search,208.12
+2025-03-01,Latin America,Social Ads,72.28
+2025-03-01,Middle East & Africa,Affiliate,95.09
+2025-03-01,Middle East & Africa,Organic,18.72
+2025-03-01,Middle East & Africa,Paid Search,85.42
+2025-03-01,Middle East & Africa,Social Ads,78.76
+2025-03-01,North America,Affiliate,210.23
+2025-03-01,North America,Email,38.33
+2025-03-01,North America,Organic,71.97
+2025-03-01,North America,Paid Search,551.89
+2025-03-01,North America,Social Ads,189.0
+2025-04-01,Asia Pacific,Affiliate,61.58
+2025-04-01,Asia Pacific,Email,47.85
+2025-04-01,Asia Pacific,Organic,58.26
+2025-04-01,Asia Pacific,Paid Search,275.41
+2025-04-01,Asia Pacific,Social Ads,344.27
+2025-04-01,Europe,Affiliate,30.06
+2025-04-01,Europe,Email,12.62
+2025-04-01,Europe,Organic,31.57
+2025-04-01,Europe,Paid Search,364.44
+2025-04-01,Europe,Social Ads,405.99
+2025-04-01,Latin America,Affiliate,64.21
+2025-04-01,Latin America,Email,28.7
+2025-04-01,Latin America,Organic,13.66
+2025-04-01,Latin America,Paid Search,97.31
+2025-04-01,Latin America,Social Ads,157.29
+2025-04-01,Middle East & Africa,Affiliate,29.56
+2025-04-01,Middle East & Africa,Organic,6.56
+2025-04-01,Middle East & Africa,Paid Search,39.01
+2025-04-01,Middle East & Africa,Social Ads,117.77
+2025-04-01,North America,Affiliate,177.28
+2025-04-01,North America,Email,48.9
+2025-04-01,North America,Organic,49.08
+2025-04-01,North America,Paid Search,729.37
+2025-04-01,North America,Social Ads,433.04
+2025-05-01,Asia Pacific,Affiliate,111.16
+2025-05-01,Asia Pacific,Email,41.53
+2025-05-01,Asia Pacific,Organic,54.78
+2025-05-01,Asia Pacific,Paid Search,341.94
+2025-05-01,Asia Pacific,Social Ads,272.75
+2025-05-01,Europe,Affiliate,69.08
+2025-05-01,Europe,Email,53.42
+2025-05-01,Europe,Organic,34.18
+2025-05-01,Europe,Paid Search,435.37
+2025-05-01,Europe,Social Ads,371.29
+2025-05-01,Latin America,Affiliate,31.81
+2025-05-01,Latin America,Email,24.53
+2025-05-01,Latin America,Paid Search,201.29
+2025-05-01,Latin America,Social Ads,194.84
+2025-05-01,Middle East & Africa,Affiliate,93.81
+2025-05-01,Middle East & Africa,Email,13.39
+2025-05-01,Middle East & Africa,Paid Search,182.89
+2025-05-01,Middle East & Africa,Social Ads,117.43
+2025-05-01,North America,Affiliate,315.48
+2025-05-01,North America,Email,40.26
+2025-05-01,North America,Organic,50.37
+2025-05-01,North America,Paid Search,847.24
+2025-05-01,North America,Social Ads,411.63
+2025-06-01,Asia Pacific,Affiliate,120.97
+2025-06-01,Asia Pacific,Email,61.61
+2025-06-01,Asia Pacific,Organic,16.14
+2025-06-01,Asia Pacific,Paid Search,670.7
+2025-06-01,Asia Pacific,Social Ads,352.5
+2025-06-01,Europe,Affiliate,146.68
+2025-06-01,Europe,Email,36.43
+2025-06-01,Europe,Organic,49.27
+2025-06-01,Europe,Paid Search,442.47
+2025-06-01,Europe,Social Ads,347.67
+2025-06-01,Latin America,Affiliate,93.85
+2025-06-01,Latin America,Organic,19.14
+2025-06-01,Latin America,Paid Search,105.55
+2025-06-01,Latin America,Social Ads,137.13
+2025-06-01,Middle East & Africa,Affiliate,29.46
+2025-06-01,Middle East & Africa,Organic,29.69
+2025-06-01,Middle East & Africa,Paid Search,181.33
+2025-06-01,Middle East & Africa,Social Ads,65.75
+2025-06-01,North America,Affiliate,83.45
+2025-06-01,North America,Email,53.44
+2025-06-01,North America,Organic,62.6
+2025-06-01,North America,Paid Search,536.07
+2025-06-01,North America,Social Ads,275.83
+2025-07-01,Asia Pacific,Affiliate,280.24
+2025-07-01,Asia Pacific,Email,28.05
+2025-07-01,Asia Pacific,Organic,44.73
+2025-07-01,Asia Pacific,Paid Search,293.91
+2025-07-01,Asia Pacific,Social Ads,369.91
+2025-07-01,Europe,Affiliate,219.47
+2025-07-01,Europe,Email,39.07
+2025-07-01,Europe,Organic,16.7
+2025-07-01,Europe,Paid Search,256.35
+2025-07-01,Europe,Social Ads,409.34
+2025-07-01,Latin America,Affiliate,26.56
+2025-07-01,Latin America,Email,11.33
+2025-07-01,Latin America,Organic,11.07
+2025-07-01,Latin America,Social Ads,39.39
+2025-07-01,Middle East & Africa,Affiliate,30.52
+2025-07-01,Middle East & Africa,Email,11.93
+2025-07-01,Middle East & Africa,Organic,13.06
+2025-07-01,Middle East & Africa,Paid Search,34.43
+2025-07-01,North America,Affiliate,143.75
+2025-07-01,North America,Email,64.39
+2025-07-01,North America,Organic,28.41
+2025-07-01,North America,Paid Search,596.89
+2025-07-01,North America,Social Ads,417.49
+2025-08-01,Asia Pacific,Affiliate,168.35
+2025-08-01,Asia Pacific,Email,27.15
+2025-08-01,Asia Pacific,Organic,42.74
+2025-08-01,Asia Pacific,Paid Search,677.39
+2025-08-01,Asia Pacific,Social Ads,532.97
+2025-08-01,Europe,Affiliate,122.09
+2025-08-01,Europe,Email,27.86
+2025-08-01,Europe,Organic,24.73
+2025-08-01,Europe,Paid Search,304.32
+2025-08-01,Europe,Social Ads,470.1
+2025-08-01,Latin America,Organic,13.47
+2025-08-01,Latin America,Paid Search,65.4
+2025-08-01,Latin America,Social Ads,240.58
+2025-08-01,Middle East & Africa,Affiliate,29.59
+2025-08-01,Middle East & Africa,Organic,10.7
+2025-08-01,Middle East & Africa,Paid Search,81.73
+2025-08-01,Middle East & Africa,Social Ads,183.18
+2025-08-01,North America,Affiliate,265.85
+2025-08-01,North America,Email,78.67
+2025-08-01,North America,Organic,53.09
+2025-08-01,North America,Paid Search,534.5
+2025-08-01,North America,Social Ads,398.56
+2025-09-01,Asia Pacific,Affiliate,224.2
+2025-09-01,Asia Pacific,Email,76.0
+2025-09-01,Asia Pacific,Organic,38.87
+2025-09-01,Asia Pacific,Paid Search,364.66
+2025-09-01,Asia Pacific,Social Ads,427.99
+2025-09-01,Europe,Affiliate,123.9
+2025-09-01,Europe,Email,44.62
+2025-09-01,Europe,Organic,21.69
+2025-09-01,Europe,Paid Search,396.05
+2025-09-01,Europe,Social Ads,342.83
+2025-09-01,Latin America,Affiliate,56.6
+2025-09-01,Latin America,Email,10.48
+2025-09-01,Latin America,Organic,10.86
+2025-09-01,Latin America,Paid Search,111.83
+2025-09-01,Latin America,Social Ads,100.63
+2025-09-01,Middle East & Africa,Email,13.01
+2025-09-01,Middle East & Africa,Organic,7.2
+2025-09-01,Middle East & Africa,Paid Search,86.1
+2025-09-01,Middle East & Africa,Social Ads,108.76
+2025-09-01,North America,Affiliate,215.5
+2025-09-01,North America,Email,42.38
+2025-09-01,North America,Organic,75.03
+2025-09-01,North America,Paid Search,360.38
+2025-09-01,North America,Social Ads,722.21
+2025-10-01,Asia Pacific,Affiliate,49.13
+2025-10-01,Asia Pacific,Email,103.95
+2025-10-01,Asia Pacific,Organic,31.37
+2025-10-01,Asia Pacific,Paid Search,784.61
+2025-10-01,Asia Pacific,Social Ads,314.66
+2025-10-01,Europe,Affiliate,105.56
+2025-10-01,Europe,Email,26.75
+2025-10-01,Europe,Organic,34.59
+2025-10-01,Europe,Paid Search,374.66
+2025-10-01,Europe,Social Ads,341.27
+2025-10-01,Latin America,Email,25.28
+2025-10-01,Latin America,Organic,13.4
+2025-10-01,Latin America,Paid Search,84.89
+2025-10-01,Latin America,Social Ads,67.3
+2025-10-01,Middle East & Africa,Affiliate,62.02
+2025-10-01,Middle East & Africa,Email,20.52
+2025-10-01,Middle East & Africa,Organic,16.5
+2025-10-01,Middle East & Africa,Paid Search,90.42
+2025-10-01,Middle East & Africa,Social Ads,137.08
+2025-10-01,North America,Affiliate,199.93
+2025-10-01,North America,Email,67.27
+2025-10-01,North America,Organic,24.75
+2025-10-01,North America,Paid Search,359.93
+2025-10-01,North America,Social Ads,330.38
+2025-11-01,Asia Pacific,Affiliate,177.13
+2025-11-01,Asia Pacific,Email,24.32
+2025-11-01,Asia Pacific,Organic,60.92
+2025-11-01,Asia Pacific,Paid Search,302.98
+2025-11-01,Asia Pacific,Social Ads,423.18
+2025-11-01,Europe,Affiliate,126.05
+2025-11-01,Europe,Email,11.93
+2025-11-01,Europe,Organic,38.83
+2025-11-01,Europe,Paid Search,261.91
+2025-11-01,Europe,Social Ads,320.37
+2025-11-01,Latin America,Affiliate,31.12
+2025-11-01,Latin America,Email,14.13
+2025-11-01,Latin America,Organic,21.36
+2025-11-01,Latin America,Paid Search,186.06
+2025-11-01,Latin America,Social Ads,70.46
+2025-11-01,Middle East & Africa,Affiliate,146.23
+2025-11-01,Middle East & Africa,Email,24.66
+2025-11-01,Middle East & Africa,Organic,13.82
+2025-11-01,Middle East & Africa,Paid Search,121.6
+2025-11-01,Middle East & Africa,Social Ads,155.95
+2025-11-01,North America,Affiliate,204.08
+2025-11-01,North America,Email,27.91
+2025-11-01,North America,Organic,26.68
+2025-11-01,North America,Paid Search,496.74
+2025-11-01,North America,Social Ads,492.04
+2025-12-01,Asia Pacific,Affiliate,149.36
+2025-12-01,Asia Pacific,Email,49.08
+2025-12-01,Asia Pacific,Organic,30.77
+2025-12-01,Asia Pacific,Paid Search,250.33
+2025-12-01,Asia Pacific,Social Ads,256.06
+2025-12-01,Europe,Affiliate,144.98
+2025-12-01,Europe,Email,56.22
+2025-12-01,Europe,Organic,37.28
+2025-12-01,Europe,Paid Search,373.28
+2025-12-01,Europe,Social Ads,462.84
+2025-12-01,Latin America,Email,12.17
+2025-12-01,Latin America,Organic,12.54
+2025-12-01,Latin America,Paid Search,127.76
+2025-12-01,Latin America,Social Ads,32.32
+2025-12-01,Middle East & Africa,Affiliate,30.3
+2025-12-01,Middle East & Africa,Email,11.72
+2025-12-01,Middle East & Africa,Organic,7.06
+2025-12-01,Middle East & Africa,Paid Search,132.16
+2025-12-01,Middle East & Africa,Social Ads,178.87
+2025-12-01,North America,Affiliate,258.33
+2025-12-01,North America,Email,70.23
+2025-12-01,North America,Organic,46.09
+2025-12-01,North America,Paid Search,551.25
+2025-12-01,North America,Social Ads,248.97
